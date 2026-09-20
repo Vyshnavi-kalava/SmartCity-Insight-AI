@@ -1,0 +1,51 @@
+﻿ID,Complaint_Text,Area,Date,Category,Context
+G001,Water is standing near the bus stop after heavy rain.,Zone A,02-Aug-26,Waterlogging,Heavy rainfall
+G002,Drain is blocked near the market road.,Zone A,03-Aug-26,Drainage,No rainfall
+G003,Road near the bus stop flooded after rain.,Zone A,05-Aug-26,Waterlogging,Heavy rainfall
+G004,Streetlight is not working near the community hall.,Zone B,05-Aug-26,Streetlight,Night
+G005,Garbage has accumulated near the market.,Zone C,06-Aug-26,Waste,High footfall
+G006,Waterlogging happened again near the bus stop.,Zone A,08-Aug-26,Waterlogging,Rainfall
+G007,Drain water is overflowing onto the road.,Zone A,09-Aug-26,Drainage,Rainfall
+G008,Several streetlights are not working on the main road.,Zone B,10-Aug-26,Streetlight,Night
+G009,Garbage collection has been delayed near the market.,Zone C,11-Aug-26,Waste,High footfall
+G010,Road is flooded again near the bus stop.,Zone A,12-Aug-26,Waterlogging,Heavy rainfall
+G011,Water is collecting near the school gate after rain.,Zone D,13-Aug-26,Waterlogging,Heavy rainfall
+G012,The drain near the school is overflowing after rainfall.,Zone D,14-Aug-26,Drainage,Rainfall
+G013,Potholes have appeared on the road near the bus stop.,Zone A,15-Aug-26,Road Damage,Regular traffic
+G014,Several potholes are making the market road difficult to use.,Zone C,16-Aug-26,Road Damage,Heavy traffic
+G015,Garbage bins near the market are overflowing.,Zone C,17-Aug-26,Waste,High footfall
+G016,Streetlights are not working along the school road.,Zone D,18-Aug-26,Streetlight,Night
+G017,Water remains on the road near the bus stop after rainfall.,Zone A,19-Aug-26,Waterlogging,Rainfall
+G018,Drain near the bus stop appears blocked after rain.,Zone A,20-Aug-26,Drainage,Rainfall
+G019,The road surface near the market has several damaged sections.,Zone C,21-Aug-26,Road Damage,Regular traffic
+G020,Garbage collection was missed near the market this week.,Zone C,22-Aug-26,Waste,High footfall
+G021,Multiple streetlights are not working near the main road.,Zone B,23-Aug-26,Streetlight,Night
+G022,Buses are arriving late at the central bus stop.,Zone E,24-Aug-26,Public Transport,Peak hours
+G023,The bus stop is overcrowded during the morning.,Zone E,25-Aug-26,Public Transport,Morning peak
+G024,Water has accumulated near the community hall after rain.,Zone B,26-Aug-26,Waterlogging,Heavy rainfall
+G025,The drain near the community hall is blocked.,Zone B,27-Aug-26,Drainage,No rainfall
+G026,There are potholes near the community hall entrance.,Zone B,28-Aug-26,Road Damage,Regular traffic
+G027,Waste has accumulated near the school entrance.,Zone D,29-Aug-26,Waste,School hours
+G028,The streetlight near the market entrance is not working.,Zone C,30-Aug-26,Streetlight,Night
+G029,Waterlogging occurred near the bus stop again after rainfall.,Zone A,31-Aug-26,Waterlogging,Heavy rainfall
+G030,Drain water is flowing onto the road near the bus stop.,Zone A,01-Sep-26,Drainage,Rainfall
+G031,The road near the school has developed several potholes.,Zone D,02-Sep-26,Road Damage,Regular traffic
+G032,Garbage collection near the school has been delayed.,Zone D,03-Sep-26,Waste,School hours
+G033,Several lights are not working near the community hall.,Zone B,04-Sep-26,Streetlight,Night
+G034,Bus service is irregular during the evening.,Zone E,05-Sep-26,Public Transport,Evening peak
+G035,Noise from traffic is high near the market road.,Zone C,06-Sep-26,Noise,Peak traffic
+G036,Water is standing near the bus stop after another rainfall.,Zone A,07-Sep-26,Waterlogging,Heavy rainfall
+G037,The drain near the market road is blocked again.,Zone C,08-Sep-26,Drainage,Rainfall
+G038,More potholes have appeared near the main road.,Zone B,09-Sep-26,Road Damage,Heavy traffic
+G039,Garbage is accumulating near the market again.,Zone C,10-Sep-26,Waste,High footfall
+G040,Streetlights remain off along part of the main road.,Zone B,11-Sep-26,Streetlight,Night
+G041,Water has collected near the school entrance after rain.,Zone D,12-Sep-26,Waterlogging,Rainfall
+G042,Drain water is overflowing near the school road.,Zone D,13-Sep-26,Drainage,Rainfall
+G043,The road near the bus stop has more damaged sections.,Zone A,14-Sep-26,Road Damage,Regular traffic
+G044,Bus arrival times are inconsistent at the central bus stop.,Zone E,15-Sep-26,Public Transport,Peak hours
+G045,Traffic noise is disturbing the area near the market.,Zone C,16-Sep-26,Noise,Peak traffic
+G046,Garbage collection has been delayed near the market again.,Zone C,17-Sep-26,Waste,High footfall
+G047,Several streetlights are still not working near the school road.,Zone D,18-Sep-26,Streetlight,Night
+G048,Waterlogging is reported near the community hall after heavy rain.,Zone B,19-Sep-26,Waterlogging,Heavy rainfall
+G049,Drainage overflow has been reported near the community hall.,Zone B,20-Sep-26,Drainage,Rainfall
+G050,The bus service has been delayed during the evening peak.,Zone E,21-Sep-26,Public Transport,Evening peak
